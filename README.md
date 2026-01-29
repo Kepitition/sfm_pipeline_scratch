@@ -39,11 +39,11 @@ Successfully tested on 7 datasets including:
 - Planar building facades
 - Relief sculptures
 
-See the full report in `annotated-Computer_Vision_Project.pdf`
+See the full report in `Computer_Vision_Project_Ayberk_Tunca.pdf`
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.11+
 - OpenCV
 - NumPy
 - SciPy
