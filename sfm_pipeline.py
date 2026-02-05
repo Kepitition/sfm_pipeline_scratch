@@ -1,9 +1,3 @@
-#######################################################################
-################## CHALMERS UNIVERSITY OF TECHNOLOGY ##################
-####################### COMPUTER VISION PROJECT #######################
-#################### AYBERK TUNCA - 11 JANUARY 2026 ###################
-#######################################################################
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -881,4 +875,5 @@ def run_sfm(dataset_id=None, images=None, K=None, init_pair=None, pixel_threshol
 
 
 if __name__ == "__main__":
+
     results = run_sfm(dataset_id=10, seed=42)
